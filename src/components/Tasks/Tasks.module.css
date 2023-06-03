@@ -42,3 +42,14 @@ h2 {
   flex-direction: column;
   gap: 0.75rem;
 }
+
+.emptyTasks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 4rem;
+  gap: 1rem;
+  color: var(--gray-300);
+  text-align: center;
+}
